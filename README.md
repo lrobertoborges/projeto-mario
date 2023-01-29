@@ -7,7 +7,6 @@ Projeto desenvolvido durante a Semana do Programador do Zero ao Contratado do @d
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -34,11 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto Mario fez parte de um desafio proposto pelos irmãos do @devemdobro onde criamos uma Landing Page sobre o filme do Super Mario utilizando HTML, CSS e Javascript.
 
 - [Visite o projeto online](https://lrobertoborges.github.io/projeto-mario/)
-
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](./src/imagens/layout.png).
 
 ## :memo: Licença
 
